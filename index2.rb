@@ -1,1 +1,2 @@
-puts "I do not love Ruby"
+puts "I love Ruby"
+puts 'But I do not love ruby'
